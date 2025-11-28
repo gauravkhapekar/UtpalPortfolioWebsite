@@ -1,0 +1,33 @@
+.hero {
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.title {
+    font-size: 4rem;
+    font-weight: 800;
+    letter-spacing: -0.05em;
+    line-height: 1;
+    margin-bottom: 2rem;
+}
+
+.subtitle {
+    font-weight: 300;
+    opacity: 0.6;
+}
+
+.description {
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin: 0 auto;
+    opacity: 0.8;
+}
+
+@media (min-width: 768px) {
+    .title {
+        font-size: 6rem;
+    }
+}

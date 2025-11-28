@@ -1,0 +1,30 @@
+{
+    "name": "Utpal",
+    "role": "Professional Videographer",
+    "bio": "I am a passionate videographer with a keen eye for detail. I love telling stories through the lens and capturing moments that last a lifetime. With over 5 years of experience, I have worked on various projects ranging from weddings to commercials.",
+    "experience": [
+        {
+            "year": "2023 - Present",
+            "role": "Freelance Videographer",
+            "company": "Self-employed",
+            "description": "Working with various clients to deliver high-quality video content."
+        },
+        {
+            "year": "2021 - 2023",
+            "role": "Senior Editor",
+            "company": "Creative Studio",
+            "description": "Led the post-production team and ensured timely delivery of projects."
+        },
+        {
+            "year": "2019 - 2021",
+            "role": "Camera Operator",
+            "company": "Media House",
+            "description": "Assisted in shooting documentaries and short films."
+        }
+    ],
+    "moments": [
+        "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?q=80&w=2071&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1511285560982-1356c11d4606?q=80&w=2076&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?q=80&w=2070&auto=format&fit=crop"
+    ]
+}
